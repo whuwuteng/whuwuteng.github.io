@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Teng Wu(LASTIG)"
 title_separator          : "-"
-name                     : &name "Teng Wu (吴腾)"
-description              : &description "Researcher at ACTE/LASTIG/ENSG/IGN, UGE"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Teng Wu(吴腾)"
+description              : &description "Researcher&ACTE/LASTIG/ENSG/IGN"
+url                      : https://whuwuteng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whuwuteng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,8 +83,8 @@ author:
   name             : "Teng Wu"
   avatar           : "profile.png"
   bio              : "Researcher"
-  location         : "Paris"
-  employer         :
+  location         : "Paris,France"
+  employer         : ENSG-IGN
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QC4Qb2sAAAAJ"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://fr.linkedin.com/in/wu-teng-40849a152
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
